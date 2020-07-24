@@ -1,0 +1,21 @@
+{
+  "name": "App init electron",
+  "version": "1.0.0",
+  "description": "empesar rapido con una app en electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Khristopher",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
